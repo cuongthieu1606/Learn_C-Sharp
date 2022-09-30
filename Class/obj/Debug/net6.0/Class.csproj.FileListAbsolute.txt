@@ -1,0 +1,15 @@
+E:\C# Turtorial\Class\bin\Debug\net6.0\Class.exe
+E:\C# Turtorial\Class\bin\Debug\net6.0\Class.deps.json
+E:\C# Turtorial\Class\bin\Debug\net6.0\Class.runtimeconfig.json
+E:\C# Turtorial\Class\bin\Debug\net6.0\Class.dll
+E:\C# Turtorial\Class\bin\Debug\net6.0\Class.pdb
+E:\C# Turtorial\Class\obj\Debug\net6.0\Class.csproj.AssemblyReference.cache
+E:\C# Turtorial\Class\obj\Debug\net6.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Turtorial\Class\obj\Debug\net6.0\Class.AssemblyInfoInputs.cache
+E:\C# Turtorial\Class\obj\Debug\net6.0\Class.AssemblyInfo.cs
+E:\C# Turtorial\Class\obj\Debug\net6.0\Class.csproj.CoreCompileInputs.cache
+E:\C# Turtorial\Class\obj\Debug\net6.0\Class.dll
+E:\C# Turtorial\Class\obj\Debug\net6.0\refint\Class.dll
+E:\C# Turtorial\Class\obj\Debug\net6.0\Class.pdb
+E:\C# Turtorial\Class\obj\Debug\net6.0\Class.genruntimeconfig.cache
+E:\C# Turtorial\Class\obj\Debug\net6.0\ref\Class.dll

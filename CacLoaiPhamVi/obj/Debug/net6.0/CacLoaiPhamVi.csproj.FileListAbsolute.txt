@@ -1,0 +1,15 @@
+E:\C# Turtorial\CacLoaiPhamVi\bin\Debug\net6.0\CacLoaiPhamVi.exe
+E:\C# Turtorial\CacLoaiPhamVi\bin\Debug\net6.0\CacLoaiPhamVi.deps.json
+E:\C# Turtorial\CacLoaiPhamVi\bin\Debug\net6.0\CacLoaiPhamVi.runtimeconfig.json
+E:\C# Turtorial\CacLoaiPhamVi\bin\Debug\net6.0\CacLoaiPhamVi.dll
+E:\C# Turtorial\CacLoaiPhamVi\bin\Debug\net6.0\CacLoaiPhamVi.pdb
+E:\C# Turtorial\CacLoaiPhamVi\obj\Debug\net6.0\CacLoaiPhamVi.csproj.AssemblyReference.cache
+E:\C# Turtorial\CacLoaiPhamVi\obj\Debug\net6.0\CacLoaiPhamVi.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Turtorial\CacLoaiPhamVi\obj\Debug\net6.0\CacLoaiPhamVi.AssemblyInfoInputs.cache
+E:\C# Turtorial\CacLoaiPhamVi\obj\Debug\net6.0\CacLoaiPhamVi.AssemblyInfo.cs
+E:\C# Turtorial\CacLoaiPhamVi\obj\Debug\net6.0\CacLoaiPhamVi.csproj.CoreCompileInputs.cache
+E:\C# Turtorial\CacLoaiPhamVi\obj\Debug\net6.0\CacLoaiPhamVi.dll
+E:\C# Turtorial\CacLoaiPhamVi\obj\Debug\net6.0\refint\CacLoaiPhamVi.dll
+E:\C# Turtorial\CacLoaiPhamVi\obj\Debug\net6.0\CacLoaiPhamVi.pdb
+E:\C# Turtorial\CacLoaiPhamVi\obj\Debug\net6.0\CacLoaiPhamVi.genruntimeconfig.cache
+E:\C# Turtorial\CacLoaiPhamVi\obj\Debug\net6.0\ref\CacLoaiPhamVi.dll

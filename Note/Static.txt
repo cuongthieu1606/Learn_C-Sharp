@@ -1,0 +1,9 @@
+Static dùng chung cho các thành phần trong lớp.
+Math.Abs Không cần tạo đối tượng
+lớp static không thể tạo đối tượng được; không new đối tượng mới
+Keyword static đặt trước class
+Có thể sử dụng static ở đâu?
+Sử dụng cho lớp, trường dữ liệu, phương thức
+chỉ thể sử dụng static với static
+Khi nào sử dụng static. Khi dùng chung cho đối tượng lớp đó, hoặc lớp khác.
+Phương thức static chỉ sử dụng cho trường static
